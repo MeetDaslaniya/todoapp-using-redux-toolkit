@@ -3,6 +3,9 @@
 ## Introduction
 Hi, I'm Meet Daslaniya, and I'm learning React Redux and Redux Toolkit by building a todo app. This project focuses on both UI design and functionality. I'm referring to a design in Figma for the UI: [Figma Todo App Design](https://www.figma.com/design/XWeiDirMwoMJvKAMs96rxz/To-Do-App-(Community)?node-id=133-133&t=aVdXGzWS5Z6AVDgf-0).
 
+## Deployment
+This project is deployed on Render. You can access the deployed site [here](https://todoapp-using-redux-toolkit.onrender.com).
+
 ## Features
 - **UI Design**: The UI design is based on the Figma design, focusing on aesthetics and user experience.
 - **Functionality**: The app allows users to:
